@@ -1,5 +1,7 @@
 # GitHub Copilot 사용법
 
+수정
+
 ## VS Code 버전 확인
 
 최신 버전의 [VS Code](https://code.visualstudio.com/download)로 업데이트하세요!
